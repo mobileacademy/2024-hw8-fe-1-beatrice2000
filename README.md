@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AJkW8Vu8)
 # Homework (HTML, CSS, JS)
 
 Generate a board for the popular Minesweeper Game. Create a set of functions accordingly.
@@ -14,3 +15,8 @@ Generate a board for the popular Minesweeper Game. Create a set of functions acc
 
 You may use Typescript instead of Javascript.
 Make sure to read the mentions in the solution-template.js file for tips.
+
+
+### Link Firebase:
+https://temadb.web.app/
+- aici este aplicatia, testata pe calculator
