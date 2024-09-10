@@ -15,3 +15,8 @@ Generate a board for the popular Minesweeper Game. Create a set of functions acc
 
 You may use Typescript instead of Javascript.
 Make sure to read the mentions in the solution-template.js file for tips.
+
+
+### Link Firebase:
+https://temadb.web.app/
+- aici este aplicatia, testata pe calculator
